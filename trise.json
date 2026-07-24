@@ -1,0 +1,21 @@
+{
+  "name": "TRISE",
+  "symbol": "TRISE",
+  "description": "TRISE$ هي العملة الملكية لمنصة TRISE V26 — أول منصة Web3 متعددة الشبكات تعمل بنظام BOOST عالمي، Burn عالمي، Chest عالمي، وKing عالمي. كل ميزة داخل TRISE تُدفع حصريًا بعملة TRISE$، وكل عملية تُنفّذ تُحرق فورًا على الشبكة الأساسية (Solana)، مما يخلق اقتصادًا مغلقًا لا مثيل له.\n\nTRISE$ ليست مجرد عملة… إنها الوقود الذي يشغّل البوت، الدعاية، البوست، الصناديق، الملوك، والتحليل المتقدم. كل Swap، كل Promote، كل BOOST، كل Chest، كل King — كلها تُشعل Burn عالمي يرفع قيمة TRISE$ ويُطلق احتفالات Royal BOOST عبر الشبكات.\n\nمن Solana إلى Base إلى ETH إلى BSC — TRISE$ هي عملة واحدة موحّدة، بنفس الـ supply، بنفس القوة، بنفس الحرق، بنفس BOOST، بنفس Chest، بنفس King. اقتصاد TRISE$ هو اقتصاد أسطوري، ممتع، سريع، قوي، ومبني ليحرق أكثر مما يصدر.\n\nTRISE$ — العملة التي تحرق التاريخ، وتبني منصة Web3 لا تشبه أي شيء آخر.",
+  "image": "https://raw.githubusercontent.com/kiwan75/trise-assets-/refs/heads/main/trise.png",
+  "external_url": "https://trise.app",
+  "attributes": [
+    { "trait_type": "Network", "value": "Solana (Primary)" },
+    { "trait_type": "Type", "value": "Multi-Chain Platform Token" },
+    { "trait_type": "Economy", "value": "Global Burn + BOOST + Chest + King" }
+  ],
+  "properties": {
+    "category": "token",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/kiwan75/trise-assets-/refs/heads/main/trise.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
